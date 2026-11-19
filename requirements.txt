@@ -1,0 +1,14 @@
+# Streamlit is used to build the web application user interface
+streamlit>=1.30.0
+
+# Pandas is used to load and work with our CSV message dataset
+pandas>=2.0.0
+
+# Scikit-learn provides TF-IDF vectorizer and Logistic Regression for machine learning
+scikit-learn>=1.3.0
+
+# Pillow handles image loading and manipulation
+Pillow>=10.0.0
+
+# Winocr provides fast, offline OCR (Optical Character Recognition) on Windows
+winocr>=0.0.15
